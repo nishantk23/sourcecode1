@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2022 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">PC Games</string>
+    <string name="headphone_1">GTA V</string>
+    <string name="headphone_2">Apex Legends</string>
+    <string name="dog_name_3">Call of Duty</string>
+    <string name="dog_name_4">Forza Horizon 5</string>
+    <string name="dog_name_5">Mafia</string>
+    <string name="dog_name_6">Metro Exodus</string>
+    <string name="dog_name_7">Stray</string>
+    <string name="dog_name_8">Valorant</string>
+    <string name="dog_name_9">Battlefield V</string>
+    <string name="dog_description_1">Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.</string>
+    <string name="dog_description_2">Apex Legends is an online multiplayer battle royale game featuring squads of three players using pre-made characters with distinctive abilities, called "Legends", similar to those of hero shooters.</string>
+    <string name="dog_description_3">Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space.</string>
+    <string name="dog_description_4">Forza Horizon 5 is a racing video game set in an open world environment based in a fictional representation of Mexico. The game has the largest map in the entire Forza Horizon series, being 50% larger than its predecessor, Forza Horizon 4.</string>
+    <string name="dog_description_5">Mafia, also known as Werewolf, is a social deduction game, created by Dimitry Davidoff in 1986. The game models a conflict between two groups: an informed minority (the mafiosi or the werewolves), and an uninformed majority (the villagers).</string>
+    <string name="dog_description_6">Metro Exodus is a first-person shooter game with survival horror and stealth elements. Set in the post-apocalyptic wasteland of the former Russian Federation and Republic of Kazakhstan, the player must cope with the new hazards and engage in combat against mutated creatures as well as hostile humans. </string>
+    <string name="dog_description_7">What is Stray? Lost, injured and alone, a stray cat must untangle an ancient mystery to escape a long-forgotten city. Stray is a third-person cat adventure game set amidst the detailed neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly.</string>
+    <string name="dog_description_8">Valorant is a tactical shooting game involving two teams with 5 players in each team. Every player can sign in and play remotely from anywhere in the world. Every game has 25 rounds and the team that wins 13 of them first wins the game. Players can choose their in-game characters called agents at the start of the game.</string>
+    <string name="dog_description_9">Set in 1943 during the German occupation of Norway, Nordlys tells the story of Solveig Fia Bjørnstad, a young woman in the Norwegian Resistance who must make the ultimate sacrifice in order to save her mother Astrid, and sabotage German heavy water production vital to their atomic weapons program.</string>
+    <string name="about">About:</string>
+    <string name="years_old">$ %d price</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
